@@ -5,7 +5,15 @@ I enjoy creating lightweight, scalable solutions with real-world value.
 
 ---
 
-## 🚀 My Projects
+## 🔌 WordPress Plugins
+
+### 🔹 RU Floating Menu
+🌐 https://github.com/xuanthucit/ru-floating-menu  
+A lightweight WordPress plugin that adds a customizable floating menu to improve site navigation and user experience.
+
+---
+
+## 🚀 Web & Platform Projects
 
 ### 🔹 Từ điển Wiki
 🌐 https://tudienwiki.com  
